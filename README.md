@@ -9,6 +9,6 @@
   <img src="https://i.ibb.co/1nVnS26/Screenshot-2024-05-05-232751.png" ></img>
   </div>
 <div align="centre">
-  <button align="center"><a href="https://www.linkedin.com/in/harsimransingh726/">Connect me for more Stuff</a></button>
-  
+  <button align="center"><a align="center" href="https://www.linkedin.com/in/harsimransingh726/">Connect me for more Stuff</a></button>
+
 </div>
