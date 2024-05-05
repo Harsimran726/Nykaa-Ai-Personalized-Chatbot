@@ -1,5 +1,5 @@
 <div style="background-color:blue">
-  <h1 font-size="xx-large" align="auto"><b> Nykaa Ai Personalized Chatbot </b></h1>
+  <h1 font-size="xx-large" align="center"><b> Nykaa Ai Personalized Chatbot </b></h1>
   <hr><hr>
   <br>
   <p color="green">Revolutionize Makeup buying with Nykaa's AI Personalized Chatbot! Get personalized recommendations, Suggestion, Payment Issues, Technical Issues , natural conversations, and simplified car selection. Built with Gemini & Django for a seamless user experience.</p>
