@@ -3,4 +3,5 @@
   <hr><hr>
   <br>
   <p style="color:green">Revolutionize Makeup buying with Nykaa's AI Personalized Chatbot! Get personalized recommendations, Suggestion, Payment Issues, Technical Issues , natural conversations, and simplified car selection. Built with Gemini & Django for a seamless user experience.</p>
+  <icon sytle="icon♑"></icon>
 </div>
