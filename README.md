@@ -7,6 +7,8 @@
   <h3>See Some Samples </h3>
   <img src="https://i.ibb.co/SKf1JkJ/Screenshot-2024-05-05-232622.png" ></img>
   <img src="https://i.ibb.co/1nVnS26/Screenshot-2024-05-05-232751.png" ></img>
-
+  </div>
+<div style="text-align:centre">
   <button><a href="https://www.linkedin.com/in/harsimransingh726/">Connect me for more Stuff</a></button>
+  
 </div>
